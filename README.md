@@ -1,5 +1,5 @@
-<img src="/imgs/python-logo.svg" alt="python logo" width="300px"/>
----------------
+<img src="/imgs/python-logo.svg" alt="python logo" width="30px"/>
+___
 
 # Web-scrapping com Python
 
@@ -7,7 +7,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)
 
----------------
+___
 
 Notebook com fins educativos:
 https://github.com/vitorbl/web-scrapping-python/blob/main/web-scrapping.ipynb
