@@ -1,5 +1,4 @@
-<img src="/imgs/python-logo.svg" alt="python logo" width="30px"/>
-___
+<img src="/imgs/python-logo.svg" alt="python logo" width="150px"/>
 
 # Web-scrapping com Python
 
