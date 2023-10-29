@@ -1,5 +1,5 @@
 <img src="/imgs/python-logo.svg" alt="python logo" width="300px"/>
-=======================================
+---------------
 
 # Web-scrapping com Python
 
